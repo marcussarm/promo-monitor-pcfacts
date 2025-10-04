@@ -1,0 +1,19 @@
+promo-monitor-pcfacts/
+├── config/
+│   ├── palavras_chave.txt
+│   ├── lojas_ativas.txt
+│   └── filtros_preco.json
+├── telegram/
+│   └── enviar_alerta.py
+├── lojas/
+│   ├── kabum.py
+│   ├── amazon.py
+│   ├── mercadolivre.py
+│   ├── gkinfostore.py
+│   └── pichau.py
+├── historico/
+│   ├── precos.csv
+│   └── graficos/
+├── main.py
+├── requirements.txt
+└── README.md
