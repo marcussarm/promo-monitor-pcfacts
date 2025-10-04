@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+pandas
+matplotlib
+python-telegram-bot
